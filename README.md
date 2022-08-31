@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## About Me
+I have lived in many different countries and enjoy travelling. I have a black and tan dachshund who loves to sleep. 
 <!--
 **stellakr/stellakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
