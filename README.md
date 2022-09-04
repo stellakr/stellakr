@@ -1,6 +1,9 @@
 ## About Me
-I have lived in many different countries and enjoy travelling. I have a black and tan dachshund who loves to sleep. 
+I have lived in many different countries and enjoy travelling. I have a black and tan dachshund who loves to sleep **a lot**. 
 ![alt text](https://i1.pickpik.com/photos/784/194/412/dog-dachshund-studio-animal-preview.jpg)
+I'm from the United States but I live abroad. My favourite color is blue.
+[I really want to visit Jamaica](https://www.google.comhttps://www.sandals.com/blog/content/images/2019/07/9_SMB_11_BEACHLIFESTYLE_08753-2-2.jpg)
+I have ~~2~~ 1 sibling.
 <!--
 **stellakr/stellakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
