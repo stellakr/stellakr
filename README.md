@@ -5,7 +5,8 @@ I have lived in many different countries and enjoy travelling. I have a black an
 
 I'm from the United States but I live abroad. My favourite color is blue.
 [I really want to visit Jamaica.](https://www.sandals.com/blog/content/images/2019/07/9_SMB_11_BEACHLIFESTYLE_08753-2-2.jpg)
-I have ~~2~~ 1 sibling.
+I have ~~two~~ one sibling.
+I have lived in *six* countries.
 <!--
 **stellakr/stellakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
