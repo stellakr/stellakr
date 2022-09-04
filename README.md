@@ -1,5 +1,6 @@
 ## About Me
 I have lived in many different countries and enjoy travelling. I have a black and tan dachshund who loves to sleep. 
+![alt text](https://i1.pickpik.com/photos/784/194/412/dog-dachshund-studio-animal-preview.jpg)
 <!--
 **stellakr/stellakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
