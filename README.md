@@ -6,7 +6,14 @@ I have lived in many different countries and enjoy travelling. I have a black an
 I'm from the United States but I live abroad. My favourite color is blue.
 [I really want to visit Jamaica.](https://www.sandals.com/blog/content/images/2019/07/9_SMB_11_BEACHLIFESTYLE_08753-2-2.jpg)
 I have ~~two~~ one sibling.
-I have lived in *six* countries.
+I have lived in *six* countries and 4 continents:
+1. North America
+2. Africa
+3. Asia
+4. Europe
+A small talent I have is I can sometimes read peoples lips[^1]
+
+[^1] I usually can only do it on people I know.
 <!--
 **stellakr/stellakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
