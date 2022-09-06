@@ -11,6 +11,8 @@ I have lived in *six* countries and 4 continents:
 2. Africa
 3. Asia
 4. Europe
+
+
 A small talent I have is I can sometimes read peoples lips[^1]
 
 [^1] I usually can only do it on people I know.
