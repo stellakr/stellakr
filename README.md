@@ -13,9 +13,9 @@ I have lived in *six* countries and 4 continents:
 4. Europe
 
 
-A small talent I have is I can sometimes read peoples lips[^1]
+A small talent I have is I can sometimes read peoples lips[^1].
 
-[^1] I usually can only do it on people I know.
+[^1]: I usually can only do it on people I know.
 <!--
 **stellakr/stellakr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
